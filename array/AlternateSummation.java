@@ -17,6 +17,6 @@ public class alternate
            else
            sum2+=a[i];
         }
-        System.out.print(sum1+" "+sum2);
+        System.out.println(sum1+" "+sum2);
     }
 }
