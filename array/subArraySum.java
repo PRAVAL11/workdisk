@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 import java.util.Scanner;
 public class subArraySum
 {
@@ -28,7 +26,7 @@ public class subArraySum
             }
         }
         if(p==0)
-        System.out.print("no element");
+        System.out.print("testing");
     }
 }
 =======
@@ -64,4 +62,4 @@ public class subArraySum
         System.out.print("no element");
     }
 }
->>>>>>> 7beb68e187c082b4451f1fb45687226b600cd487
+
