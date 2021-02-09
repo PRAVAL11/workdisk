@@ -49,6 +49,6 @@ public class CountMinOperations
                 {status=true;break;}
             }
         }
-        System.out.print(count);
+        System.out.print("Count"+count);
     }
 }
